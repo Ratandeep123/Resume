@@ -1,0 +1,192 @@
+body{
+  background-color:black;
+}
+.row{
+  margin-left: 0px;
+  margin-right: 0px;
+  
+}
+
+#resume{
+  border:10px solid cornsilk;
+}
+.lnk #blog h3 .blg{
+  padding-right: 0px;
+  }
+.lnk h3{
+  color: white;
+  font-family: serif;
+  display: inline-block;
+  padding-right:73px;
+}
+.roww {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 25px;
+}
+h3:hover{
+  color:brown;
+}
+.hd #expe h3{
+  color: white;
+  font-family:serif;
+}
+
+.hd #home .hme h6{
+  color:brown;  
+}
+
+
+.hd .row .col-sm{
+  color:white;
+  font-family: serif;
+  font-weight: 600;
+  width:100%;
+  height:100%;
+  border:1px solid brown;
+  background-color: brown;
+  margin-left: 10px;
+  margin-right: 7px;
+  text-align: center;
+
+}
+.hd #home .border-border-0{
+  width:fit-content;
+  height:fit-content;
+  background-color:cornsilk;
+  margin-left: 10px;
+}
+.stackcol{
+  background-color: white;
+    
+    color: black;
+    margin-top: 17px;
+    margin-bottom: 10px;
+}
+.hd h6{
+  color: white;
+  font-family: serif;
+  margin-left:56px;
+}
+#contact h5 {
+  text-align: center;
+  font-family: serif;
+  font-weight: 600;
+  color: brown;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+.link h6{
+  font-size: 1rem;
+}
+.hd #resume h3{
+  color:white;
+  font-family: serif;
+  margin-left:50px;
+  }
+  .hd #resume h6{
+    color:white;
+    font-family: serif;
+    margin-left:100px;
+  }
+  .hd #resume h5{
+    font-family: serif;
+    color:brown;
+    margin-left: 53px;
+  }
+  .hd .border {
+    background-color: black;
+    width: auto;
+    height: auto;
+    margin: 10px;
+
+  }
+  .hd #resume .notes{
+    color:rgb(24, 11, 202);
+    font-weight: 600;
+  }
+  .hd #resume .skl{
+    color:rgb(24, 11, 202);
+    font-weight:600;
+  }
+  .hd #resume .lng h6{
+    color:brown;
+  }
+  .hd #contact{
+    color: white;
+    font-family: serif;
+    background-color: black;
+    margin-left: 11px;
+    margin-right: 10px;
+    border: 10px solid;
+  }
+  .btnn{
+    margin-left: 45%;
+    margin-top: 10px;
+    background-color: brown;
+    text-decoration: none;
+    border: 0px;
+    width: 8%;
+    font-family: sans-serif;
+    font-size: x-large;
+    border-radius: 5px;
+  } 
+   .ipt{
+    border: 1px solid white;
+    margin-left: 9%;
+    width: 80%;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 1%;
+  } 
+  .frm h6{
+    color: white;
+    margin-left: 43%;
+    margin-top: 2%;
+  }
+  btn btn-primary{
+    text-align: center;
+  }
+  .link a{
+    color: white;
+    margin-left: 4px;
+    margin-right: 25px;
+    float: right;
+    font-family: serif;
+    margin-top: 10px;
+    text-decoration: none;
+  }
+  a :hover{
+    color: brown;
+    
+  }
+
+  #contact h5{
+    text-align: center;
+    font-family:serif;
+    font-weight:600;
+}
+.hd #contact .frm .butn{
+  
+  font-size: x-large;
+  background-color: brown;
+  font-family: serif;
+  border-radius: 8px;
+  margin-left: 550px;
+ 
+}
+#about{
+  margin-top: 10px;
+  margin-left: 10px;
+    margin-right: 10px;
+}
+.abt{
+  border: 10px solid white;
+   
+    color: white;
+    font-family: serif;
+    text-align: center;
+}  
+.react{
+  color: brown;
+} 
